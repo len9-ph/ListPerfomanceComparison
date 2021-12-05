@@ -1,11 +1,11 @@
-#LinkedList & ArrayList Comparison
-###This program compares the performance of ArrayList and LinkedList. 
-####The program compares perfomance of operations such as:
+LinkedList & ArrayList Comparison
+This program compares the performance of ArrayList and LinkedList. 
+The program compares perfomance of operations such as:
 * add
 * remove
 * get
-####The result of the work is the output of the comparison table to the console
-####Example of output:
+The result of the work is the output of the comparison table to the console
+Example of output:
 
 |               |List size  |ArrayList | LinkedList|
 | ------------- |:---------:|:--------:|:---------:|
@@ -21,4 +21,4 @@
 | Get           | 10000     |  0,705300|  37,030400|
 | Rem           | 10000     |  0,397200|   0,416600|
 
-####!Note: *The time  is expressed in milliseconds*
+!Note: *The time  is expressed in milliseconds*
